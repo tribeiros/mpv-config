@@ -1,0 +1,43 @@
+# gpu
+gpu-context=winvk
+vo=gpu-next
+gpu-api=vulkan
+hwdec=vulkan
+
+# screen
+ontop=
+ontop-level=system
+panscan=1.0
+fullscreen=
+no-border=
+
+# osd
+osd-font='Lucida Grande'
+osd-color='#ffcc00'
+osd-font-size=32
+osd-border-size=1
+
+# subtitle
+sub-font='Montserrat-bold'
+sub-font-size=42
+sub-color='#ffff00'
+sub-bold=yes
+sub-border-size=1
+sub-shadow-color='#000000'
+sub-shadow-offset=2
+
+# sub lang
+slang=eng
+sub-auto=all
+
+# audio lang
+alang=eng
+
+# features
+save-position-on-quit=
+screenshot-directory='C:\Users\tribeiros\Pictures\screenshot'
+loop=inf
+
+#caching
+demuxer-max-bytes=80GiB
+cache-secs=600000
